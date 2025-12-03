@@ -1,0 +1,19 @@
+INSTRUCCIONES  
+
+Tener instalado las librerias
+
+pip install tensorflow numpy customtkinter pillow
+
+
+
+Para ejecutar el programa
+
+Primero se ejecuta los entrenadores 
+
+python entrenar_v4_pro.py
+
+Después se ejecuta las app
+
+python app_v4_pro.py     
+
+Y si tarda es por qué anda aprendiendo.. 
